@@ -1,0 +1,6 @@
+sample/*.txt
+sample/*.srt
+sample/*.vtt
+.venv
+__pycache__
+.DS_Store

@@ -1,0 +1,33 @@
+# One term per line. Lines starting with # are ignored.
+# You can override this by creating glossary.txt in your working directory
+# or by setting BREADSCRIBE_GLOSSARY=/path/to/glossary.txt
+
+autolyse
+levain
+poolish
+preferment
+bulk fermentation
+crumb
+oven spring
+banneton
+hydration
+baker’s percent
+lamination
+stretch and fold
+slap and fold
+scoring
+couche
+pâte fermentée
+tangzhong
+yudane
+retard
+aliquot jar
+levain build
+shaping
+batard
+boule
+preheat
+steam
+Dutch oven
+crumb shot
+to 96 F internal
